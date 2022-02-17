@@ -2,6 +2,7 @@
 https://prof-repo-build-files-git-main-marinyu32-gmailcom.vercel.app/
 
 
+##
 <center>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -11,8 +12,9 @@ https://prof-repo-build-files-git-main-marinyu32-gmailcom.vercel.app/
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)  
 
 </center>
+##
 
-Технологии моего проекта
+## Технологии моего проекта
 
 - React.js
 - Node.js
